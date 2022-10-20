@@ -1,0 +1,43 @@
+*{
+    background-color: #ddab9a;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+.page-title{
+    color: #7d5250;
+    
+}
+.pic-gif{
+    height: auto;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+#intro{
+    font-weight: bold;
+}
+.sections{
+    background-color: #bf7452;
+}
+.page-title, .sections, #intro{
+    text-align: center;
+}
+.button{
+
+        -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
+    
+        text-decoration: none;
+        color: #7d5250;
+}
+.element{
+    float: left;
+    font-weight: bold;
+   margin: 10px;
+}
+.list{
+    list-style-type: none;
+    width: 70%;
+    margin: auto;
+}
